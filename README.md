@@ -63,92 +63,92 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 
 ## Two Pointers
 
-[11. Container With Most Water]() <br>
-[15. 3Sum]() <br>
-[18. 4Sum]() <br>
-[26. Remove Duplicates from Sorted Array]() <br>
-[42. Trapping Rain Water]() <br>
-[80. Remove Duplicates from Sorted Array II]() <br>
-[88. Merge Sorted Array]() <br>
-[125. Valid Palindrome]() <br>
-[167. Two Sum II - Input Array is Sorted]() <br>
-[189. Rotate Array]() <br>
-[283. Move Zeroes]() <br>
-[344. Reverse String]() <br>
-[680. Valid Palindrome II]() <br>
-[881. Boats to Save People]() <br>
-[1498. Number of Subsequences That Satisfy the Given Sum Condition]() <br>
-[1768. Merge Strings Alternately]() <br>
-[1968. Array With Elements Not Equal to Average of Neighbors]() <br>
-[1984. Minimum Difference Between Highest and Lowest of K Scores]() <br>
+[11. Container With Most Water](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0011-container-with-most-water.ipynb) <br>
+[15. 3Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0015-3sum.ipynb) <br>
+[18. 4Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0018-4sum.ipynb) <br>
+[26. Remove Duplicates from Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0026-remove-duplicates-from-sorted-array.ipynb) <br>
+[42. Trapping Rain Water](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0042-trapping-rain-water.ipynb) <br>
+[80. Remove Duplicates from Sorted Array II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0080-remove-duplicates-from-sorted-array-ii.ipynb) <br>
+[88. Merge Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0088-merge-sorted-array.ipynb) <br>
+[125. Valid Palindrome](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0125-valid-palindrome.ipynb) <br>
+[167. Two Sum II - Input Array is Sorted](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0167-two-sum-ii-input-array-is-sorted.ipynb) <br>
+[189. Rotate Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0189-rotate-array.ipynb) <br>
+[283. Move Zeroes](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0283-move-zeroes.ipynb) <br>
+[344. Reverse String](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0344-reverse-string.ipynb) <br>
+[680. Valid Palindrome II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0680-valid-palindrome-ii.ipynb) <br>
+[881. Boats to Save People](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0881-boats-to-save-people.ipynb) <br>
+[1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.ipynb) <br>
+[1768. Merge Strings Alternately](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1768-merge-strings-alternately.ipynb) <br>
+[1968. Array With Elements Not Equal to Average of Neighbors](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1968-array-with-elements-not-equal-to-average-of-neighbors.ipynb) <br>
+[1984. Minimum Difference Between Highest and Lowest of K Scores](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1984-minimum-difference-between-highest-and-lowest-of-k-scores.ipynb) <br>
 
 
 ## Sliding Window
 
-[3. Longest Substring Without Repeating Characters]() <br> 
-[76. Minimum Window Substring]() <br>
-[121. Best Time to Buy and Sell Stock]() <br>
-[209. Minimum Size Subarray Sum]() <br>
-[219. Contains Duplicate II]() <br>
-[239. Sliding Window Maximum]() <br>
-[424. Longest Repeating Character Replacement]() <br>
-[567. Permutation in String]() <br>
-[658. Sind K Closest Elements]() <br>
-[904. Fruit into Baskets]() <br>
-[1343. Number of Sub Arrays of Size K and Average Greater than or Equal to Threshold]() <br>
-[1456. Maximum Number of Vowels in a Substring of Given Length]() <br>
-[1838. Frequency of the Most Frequent Element]() <br>
-[1888. Minimum Number of Flips to Make the Binary String Alternating]() <br>
+[3. Longest Substring Without Repeating Characters](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0003-longest-substring-without-repeating-characters.ipynb) <br> 
+[76. Minimum Window Substring](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0076-minimum-window-substring.ipynb) <br>
+[121. Best Time to Buy and Sell Stock](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0121-best-time-to-buy-and-sell-stock.ipynb) <br>
+[209. Minimum Size Subarray Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0209-minimum-size-subarray-sum.ipynb) <br>
+[219. Contains Duplicate II](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0219-contains-duplicate-ii.ipynb) <br>
+[239. Sliding Window Maximum](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0239-sliding-window-maximum.ipynb) <br>
+[424. Longest Repeating Character Replacement](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0424-longest-repeating-character-replacement.ipynb) <br>
+[567. Permutation in String](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0567-permutation-in-string.ipynb) <br>
+[658. Sind K Closest Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0658-find-k-closest-elements.ipynb) <br>
+[904. Fruit into Baskets](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/0904-fruit-into-baskets.ipynb) <br>
+[1343. Number of Sub Arrays of Size K and Average Greater than or Equal to Threshold](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1343-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold.ipynb) <br>
+[1456. Maximum Number of Vowels in a Substring of Given Length](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1456-maximum-number-of-vowels-in-a-substring-of-given-length.ipynb) <br>
+[1838. Frequency of the Most Frequent Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1838-frequency-of-the-most-frequent-element.ipynb) <br>
+[1888. Minimum Number of Flips to Make the Binary String Alternating](https://github.com/shabanamir/leetcode-solutions/blob/main/Sliding%20Window/1888-minimum-number-of-flips-to-make-the-binary-string-alternating.ipynb) <br>
 
 
 ## Stack
 
-[20. Valid Parentheses]() <br>
-[22. Generate Parentheses]() <br>
-[71. Simplify Path]() <br>
-[84. Largest Rectangle in Histogram]() <br>
-[150. Evaluate Reverse Polish Notation]() <br>
-[155. Min Stack]() <br>
-[225. Implement Stack using Queues]() <br>
-[232. Implement Queue using Stacks]() <br>
-[394. Decode String]() <br>
-[402. Remove K Digits]() <br>
-[456. 132 Pattern]() <br>
-[682. Baseball Game]() <br>
-[735. Asteroid Collision]() <br>
-[739. Daily Temperatures]() <br>
-[853. Car Fleet]() <br>
-[895. Maximum Frequency Stack]() <br>
-[901. Online Stock Span]() <br>
-[946. Validate Stack Sequences]() <br>
-[1209. Remove All Adjacent Duplicates in String II]() <br>
-[2390. Removing Stars from a String]() <br>
+[20. Valid Parentheses](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0020-valid-parentheses.ipynb) <br>
+[22. Generate Parentheses](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0022-generate-parentheses.ipynb) <br>
+[71. Simplify Path](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0071-simplify-path.ipynb) <br>
+[84. Largest Rectangle in Histogram](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0084-largest-rectangle-in-histogram.ipynb) <br>
+[150. Evaluate Reverse Polish Notation](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0150-evaluate-reverse-polish-notation.ipynb) <br>
+[155. Min Stack](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0155-min-stack.ipynb) <br>
+[225. Implement Stack using Queues](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0225-implement-stack-using-queues.ipynb) <br>
+[232. Implement Queue using Stacks](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0232-implement-queue-using-stacks.ipynb) <br>
+[394. Decode String](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0394-decode-string.ipynb) <br>
+[402. Remove K Digits](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0402-remove-k-digits.ipynb) <br>
+[456. 132 Pattern](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0456-132-pattern.ipynb) <br>
+[682. Baseball Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0682-baseball-game.ipynb) <br>
+[735. Asteroid Collision](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0735-asteroid-collision.ipynb) <br>
+[739. Daily Temperatures](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0739-daily-temperatures.ipynb) <br>
+[853. Car Fleet](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0853-car-fleet.ipynb) <br>
+[895. Maximum Frequency Stack](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0895-maximum-frequency-stack.ipynb) <br>
+[901. Online Stock Span](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0901-online-stock-span.ipynb) <br>
+[946. Validate Stack Sequences](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/0946-validate-stack-sequences.ipynb) <br>
+[1209. Remove All Adjacent Duplicates in String II](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/1209-remove-all-adjacent-duplicates-in-string-ii.ipynb) <br>
+[2390. Removing Stars from a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Stack/2390-removing-stars-from-a-string.ipynb) <br>
 
 
 ## Binary Search
 
-[4. Median of Two Sorted Arrays]() <br>
-[33. Search in Rotated Sorted Array]() <br>
-[34. Find First and Last Position of Element in Sor]() <br>
-[35. Search Insert Position]() <br>
-[69. Sqrt x]() <br>
-[74. Search a 2D Matrix]() <br>
-[81. Search in Rotated Sorted Array II]() <br>
-[153. Find Minimum in Rotated Sorted Array]() <br>
-[162. Find Peak Element]() <br>
-[367. Valid Perfect Square]() <br>
-[374. Guess Number Higher or Lower]() <br>
-[410. Split Array Largest Sum]() <br>
-[441. Arranging Coins]() <br>
-[540. Single Element in a Sorted Array]() <br>
-[704. Binary Search]() <br>
-[875. Koko Eating Bananas]() <br>
-[977. Squares of a Sorted Array]() <br>
-[981. Time Based Key Value Store]() <br>
-[1011. Capacity to Ship Packages Within D Days]() <br>
-[1268. Search Suggestions System]() <br>
-[1898. Maximum Number of Removable Characters]() <br>
-[2300. Successful Pairs of Spells and Potions]() <br>
+[4. Median of Two Sorted Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0004-median-of-two-sorted-arrays.ipynb) <br>
+[33. Search in Rotated Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0033-search-in-rotated-sorted-array.ipynb) <br>
+[34. Find First and Last Position of Element in Sor](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0034-find-first-and-last-position-of-element-in-sor.ipynb) <br>
+[35. Search Insert Position](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0035-search-insert-position.ipynb) <br>
+[69. Sqrt(x)](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0069-sqrt-x.ipynb) <br>
+[74. Search a 2D Matrix](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0074-search-a-2d-matrix.ipynb) <br>
+[81. Search in Rotated Sorted Array II](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0081-search-in-rotated-sorted-array-ii.ipynb) <br>
+[153. Find Minimum in Rotated Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0153-find-minimum-in-rotated-sorted-array.ipynb) <br>
+[162. Find Peak Element](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0162-find-peak-element.ipynb) <br>
+[367. Valid Perfect Square](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0367-valid-perfect-square.ipynb) <br>
+[374. Guess Number Higher or Lower](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0374-guess-number-higher-or-lower.ipynb) <br>
+[410. Split Array Largest Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0410-split-array-largest-sum.ipynb) <br>
+[441. Arranging Coins](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0441-arranging-coins.ipynb) <br>
+[540. Single Element in a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0540-single-element-in-a-sorted-array.ipynb) <br>
+[704. Binary Search](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0704-binary-search.ipynb) <br>
+[875. Koko Eating Bananas](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0875-koko-eating-bananas.ipynb) <br>
+[977. Squares of a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0977-squares-of-a-sorted-array.ipynb) <br>
+[981. Time Based Key Value Store](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0981-time-based-key-value-store.ipynb) <br>
+[1011. Capacity to Ship Packages Within D Days](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0981-time-based-key-value-store.ipynb) <br>
+[1268. Search Suggestions System](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/1268-search-suggestions-system.ipynb) <br>
+[1898. Maximum Number of Removable Characters](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/1898-maximum-number-of-removable-characters.ipynb) <br>
+[2300. Successful Pairs of Spells and Potions](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/2300-successful-pairs-of-spells-and-potions.ipynb) <br>
 
 
 ## Linked List
@@ -234,53 +234,53 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 
 ## Heap
 
-[215. Kth Largest Element in an Array]() <br>
-[295. Find Median from Data Stream]() <br>
-[355. Design Twitter]() <br>
-[502. IPO]() <br>
-[621. Task Scheduler]() <br>
-[703. Kth Largest Element in a Stream]() <br>
-[767. Reorganize String]() <br>
-[973. K Closest Points to Origin]() <br>
-[1046. Last Stone Weight]() <br>
-[1094. Car Pooling]() <br>
-[1383. Maximum Performance of a Team]() <br>
-[1405. Longest Happy String]() <br>
-[1675. Minimize Deviation in Array]() <br>
-[1834. Single Threaded CPU]() <br>
-[1845. Seat Reservation Manager]() <br>
-[1882. Process Tasks Using Servers]() <br>
-[1985. Find the Kth Largest Integer in the Array]() <br>
-[2542. Maximum Subsequence Score]() <br> 
+[215. Kth Largest Element in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0215-kth-largest-element-in-an-array.ipynb) <br>
+[295. Find Median from Data Stream](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0295-find-median-from-data-stream.ipynb) <br>
+[355. Design Twitter](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0355-design-twitter.ipynb) <br>
+[502. IPO](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0502-ipo.ipynb) <br>
+[621. Task Scheduler](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0621-task-scheduler.ipynb) <br>
+[703. Kth Largest Element in a Stream](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0703-kth-largest-element-in-a-stream.ipynb) <br>
+[767. Reorganize String](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0767-reorganize-string.ipynb) <br>
+[973. K Closest Points to Origin](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/0973-k-closest-points-to-origin.ipynb) <br>
+[1046. Last Stone Weight](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1046-last-stone-weight.ipynb) <br>
+[1094. Car Pooling](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1094-car-pooling.ipynb) <br>
+[1383. Maximum Performance of a Team](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1383-maximum-performance-of-a-team.ipynb) <br>
+[1405. Longest Happy String](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1405-longest-happy-string.ipynb) <br>
+[1675. Minimize Deviation in Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1675-minimize-deviation-in-array.ipynb) <br>
+[1834. Single Threaded CPU](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1834-single-threaded-cpu.ipynb) <br>
+[1845. Seat Reservation Manager](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1845-seat-reservation-manager.ipynb) <br>
+[1882. Process Tasks Using Servers](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1882-process-tasks-using-servers.ipynb) <br>
+[1985. Find the Kth Largest Integer in the Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/1985-find-the-kth-largest-integer-in-the-array.ipynb) <br>
+[2542. Maximum Subsequence Score](https://github.com/shabanamir/leetcode-solutions/blob/main/Heap/2542-maximum-subsequence-score.ipynb) <br> 
 
 
 ## Backtracking
 
-[17. Letter Combinations of a Phone Number]() <br>
-[39. Combination Sum]() <br>
-[40. Combination Sum II]() <br>
-[46. Permutations]() <br>
-[47. Permutations II]() <br>
-[51. N Queens]() <br>
-[52. N Queens II]() <br>
-[77. Combinations]() <br>
-[78. Subsets]() <br>
-[79. Word Search]() <br>
-[90. Subsets II]() <br>
-[93. Restore IP Addresses]() <br>
-[131. Palindrome Partitioning]() <br>
-[473. Matchsticks to Square]() <br>
-[698. Partition to K Equal Sum Subsets]() <br>
-[1239. Maximum Length of a Concatenated String with Unique Characters]() <br>
-[1849. Splitting a String into Descending Consecutive Values]() <br>
-[1980. Find Unique Binary String]() <br>
+[17. Letter Combinations of a Phone Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0017-letter-combinations-of-a-phone-number.ipynb) <br>
+[39. Combination Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0039-combination-sum.ipynb) <br>
+[40. Combination Sum II](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0040-combination-sum-ii.ipynb) <br>
+[46. Permutations](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0046-permutations.ipynb) <br>
+[47. Permutations II](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0047-permutations-ii.ipynb) <br>
+[51. N Queens](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0051-n-queens.ipynb) <br>
+[52. N Queens II](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0052-n-queens-ii.ipynb) <br>
+[77. Combinations](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0077-combinations.ipynb) <br>
+[78. Subsets](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0078-subsets.ipynb) <br>
+[79. Word Search](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0079-word-search.ipynb) <br>
+[90. Subsets II](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0090-subsets-ii.ipynb) <br>
+[93. Restore IP Addresses](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0093-restore-ip-addresses.ipynb) <br>
+[131. Palindrome Partitioning](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0131-palindrome-partitioning.ipynb) <br>
+[473. Matchsticks to Square](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0473-matchsticks-to-square.ipynb) <br>
+[698. Partition to K Equal Sum Subsets](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/0698-partition-to-k-equal-sum-subsets.ipynb) <br>
+[1239. Maximum Length of a Concatenated String with Unique Characters](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/1239-maximum-length-of-a-concatenated-string-with-unique-characters.ipynb) <br>
+[1849. Splitting a String into Descending Consecutive Values](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/1849-splitting-a-string-into-descending-consecutive-values.ipynb) <br>
+[1980. Find Unique Binary String](https://github.com/shabanamir/leetcode-solutions/blob/main/Backtracking/1980-find-unique-binary-string.ipynb) <br>
 
 
 ## Trie
 
-[208. Implement Trie Prefix Tree]() <br>
-[211. Design Add and Search Words Data Structure]() <br>
-[212. Word Search II]() <br> 
+[208. Implement Trie Prefix Tree](https://github.com/shabanamir/leetcode-solutions/blob/main/Trie/0208-implement-trie-prefix-tree.ipynb) <br>
+[211. Design Add and Search Words Data Structure](https://github.com/shabanamir/leetcode-solutions/blob/main/Trie/0211-design-add-and-search-words-data-structure.ipynb) <br>
+[212. Word Search II](https://github.com/shabanamir/leetcode-solutions/blob/main/Trie/0212-word-search-ii.ipynb) <br> 
 
 
 ## Graph
@@ -353,68 +353,68 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 
 ## Greedy
 
-[45. Jump Game II]() <br>
-[53. Maximum Subarray]() <br>
-[55. Jump Game]() <br>
-[134. Gas Station]() <br>
-[649. Dota2 Senate]() <br>
-[678. Valid Parenthesis String]() <br>
-[763. Partition Labels]() <br>
-[846. Hand of Straights]() <br>
-[918. Maximum Sum Circular Subarray]() <br>
-[978. Longest Turbulent Subarray]() <br>
-[1029. Two City Scheduling]() <br>
-[1423. Maximum Points You Can Obtain From Cards]() <br>
-[1871. Jump Game VII]() <br>
-[1899. Merge Triplets to Form Target Triplet]() <br>
-[1921. Eliminate Maximum Number of Monsters]() <br>
-[2439. Minimize Maximum of Array]() <br>
+[45. Jump Game II](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0045-jump-game-ii.ipynb) <br>
+[53. Maximum Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0053-maximum-subarray.ipynb) <br>
+[55. Jump Game](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0055-jump-game.ipynb) <br>
+[134. Gas Station](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0134-gas-station.ipynb) <br>
+[649. Dota2 Senate](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0649-dota2-senate.ipynb) <br>
+[678. Valid Parenthesis String](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0678-valid-parenthesis-string.ipynb) <br>
+[763. Partition Labels](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0763-partition-labels.ipynb) <br>
+[846. Hand of Straights](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0846-hand-of-straights.ipynb) <br>
+[918. Maximum Sum Circular Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0918-maximum-sum-circular-subarray.ipynb) <br>
+[978. Longest Turbulent Subarray](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/0978-longest-turbulent-subarray.ipynb) <br>
+[1029. Two City Scheduling](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1029-two-city-scheduling.ipynb) <br>
+[1423. Maximum Points You Can Obtain From Cards](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1423-maximum-points-you-can-obtain-from-cards.ipynb) <br>
+[1871. Jump Game VII](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1871-jump-game-vii.ipynb) <br>
+[1899. Merge Triplets to Form Target Triplet](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1899-merge-triplets-to-form-target-triplet.ipynb) <br>
+[1921. Eliminate Maximum Number of Monsters](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/1921-eliminate-maximum-number-of-monsters.ipynb) <br>
+[2439. Minimize Maximum of Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Greedy/2439-minimize-maximum-of-array.ipynb) <br>
 
 
 ## Interval
 
-[56. Merge Intervals]() <br>
-[57. Insert Interval]() <br>
-[352. Data Stream as Disjoint Intervals]() <br>
-[435. Non Overlapping Intervals]() <br>
-[1288. Remove Covered Intervals]() <br>
-[1851. Minimum Interval to Include Each Query]() <br>
+[56. Merge Intervals](https://github.com/shabanamir/leetcode-solutions/blob/main/Interval/0056-merge-intervals.ipynb) <br>
+[57. Insert Interval](https://github.com/shabanamir/leetcode-solutions/blob/main/Interval/0057-insert-interval.ipynb) <br>
+[352. Data Stream as Disjoint Intervals](https://github.com/shabanamir/leetcode-solutions/blob/main/Interval/0352-data-stream-as-disjoint-intervals.ipynb) <br>
+[435. Non Overlapping Intervals](https://github.com/shabanamir/leetcode-solutions/blob/main/Interval/0435-non-overlapping-intervals.ipynb) <br>
+[1288. Remove Covered Intervals](https://github.com/shabanamir/leetcode-solutions/blob/main/Interval/1288-remove-covered-intervals.ipynb) <br>
+[1851. Minimum Interval to Include Each Query](https://github.com/shabanamir/leetcode-solutions/blob/main/Interval/1851-minimum-interval-to-include-each-query.ipynb) <br>
 
 
 ## Math & Geometry
 
-[6. Zigzag Conversion]() <br>
-[9. Palindrome Number]() <br>
-[12. Integer to Roman]() <br>
-[13. Roman to Integer]() <br>
-[43. Multiply Strings]() <br>
-[48. Rotate Image]() <br>
-[50. Pow(x, n)]() <br>
-[54. Spiral Matrix]() <br>
-[59. Spiral Matrix II]() <br>
-[66. Plus One]() <br>
-[73. Set Matrix Zeroes]() <br>
-[149. Max Points on a Line]() <br>
-[202. Happy Number]() <br>
-[263. Ugly Number]() <br>
-[1041. Robot Bounded in Circle]() <br>
-[1071. Greatest Common Divisor of Strings]() <br>
-[1260. Shift 2D Grid]() <br>
-[1523. Count Odd Numbers in an Interval Range]() <br>
-[1572. Matrix Diagonal Sum]() <br>
-[2013. Detect Squares]() <br>
-[2028. Find Missing Observations]() <br>
+[6. Zigzag Conversion](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0006-zigzag-conversion.ipynb) <br>
+[9. Palindrome Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0009-palindrome-number.ipynb) <br>
+[12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0012-integer-to-roman.ipynb) <br>
+[13. Roman to Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0013-roman-to-integer.ipynb) <br>
+[43. Multiply Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0043-multiply-strings.ipynb) <br>
+[48. Rotate Image](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0048-rotate-image.ipynb) <br>
+[50. Pow(x, n)](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0050-pow-x-n.ipynb) <br>
+[54. Spiral Matrix](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0054-spiral-matrix.ipynb) <br>
+[59. Spiral Matrix II](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0059-spiral-matrix-ii.ipynb) <br>
+[66. Plus One](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0066-plus-one.ipynb) <br>
+[73. Set Matrix Zeroes](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0073-set-matrix-zeroes.ipynb) <br>
+[149. Max Points on a Line](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0149-max-points-on-a-line.ipynb) <br>
+[202. Happy Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0202-happy-number.ipynb) <br>
+[263. Ugly Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0263-ugly-number.ipynb) <br>
+[1041. Robot Bounded in Circle](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1041-robot-bounded-in-circle.ipynb) <br>
+[1071. Greatest Common Divisor of Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1071-greatest-common-divisor-of-strings.ipynb) <br>
+[1260. Shift 2D Grid](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1260-shift-2d-grid.ipynb) <br>
+[1523. Count Odd Numbers in an Interval Range](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1523-count-odd-numbers-in-an-interval-range.ipynb) <br>
+[1572. Matrix Diagonal Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1572-matrix-diagonal-sum.ipynb) <br>
+[2013. Detect Squares](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/2013-detect-squares.ipynb) <br>
+[2028. Find Missing Observations](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/2013-detect-squares.ipynb) <br>
 
 
 ## Bit Manipulation
 
-[7. Reverse Integer]() <br>
-[67. Add Binary]() <br>
-[136. Single Number]() <br>
-[190. Reverse Bits]() <br>
-[191. Number of 1 Bits]() <br>
-[268. Missing Number]() <br>
-[338. Counting Bits]() <br>
-[371. Sum of Two Integers]() <br>
-[989. Add to Array Form of Integer]() <br>
-[1470. Shuffle the Array]() <br>
+[7. Reverse Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0007-reverse-integer.ipynb) <br>
+[67. Add Binary](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0067-add-binary.ipynb) <br>
+[136. Single Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0136-single-number.ipynb) <br>
+[190. Reverse Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0190-reverse-bits.ipynb) <br>
+[191. Number of 1 Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0191-number-of-1-bits.ipynb) <br>
+[268. Missing Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0268-missing-number.ipynb) <br>
+[338. Counting Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0338-counting-bits.ipynb) <br>
+[371. Sum of Two Integers](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0371-sum-of-two-integers.ipynb) <br>
+[989. Add to Array Form of Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0989-add-to-array-form-of-integer.ipynb) <br>
+[1470. Shuffle the Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/1470-shuffle-the-array.ipynb) <br>
