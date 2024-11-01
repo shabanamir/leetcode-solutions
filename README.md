@@ -27,7 +27,7 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 [303. Range Sum Query Immutable](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0303-range-sum-query-immutable.ipynb) <br>
 [304. Range Sum Query 2D Immutable](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0304-range-sum-query-2d-immutable.ipynb) <br>
 [347. Top K Frequent Elements](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0347-top-k-frequent-elements.ipynb) <br>
-[349. Intersection of Two Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0380-intersection-of-two-arrays.ipynb) <br>
+[349. Intersection of Two Arrays](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0349-intersection-of-two-arrays.ipynb) <br>
 [380. Insert Delete GetRandom O(1)](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0380-insert-delete-getrandom-o-1.ipynb) <br>
 [392. Is Subsequence](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0392-is-subsequence.ipynb) <br>
 [438. Find All Anagrams in a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0438-find-all-anagrams-in-a-string.ipynb) <br>
