@@ -30,18 +30,22 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 [380. Insert Delete GetRandom O(1)](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0380-insert-delete-getrandom-o-1.ipynb) <br>
 [392. Is Subsequence](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0392-is-subsequence.ipynb) <br>
 [438. Find All Anagrams in a String](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0438-find-all-anagrams-in-a-string.ipynb) <br>
+[442. Find All Duplicates in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0442-find-all-duplicates-in-an-array.ipynb) <br>
 [448. Find All Numbers Disappeared in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0448-find-all-numbers-disappeared-in-an-array.ipynb) <br>
 [496. Next Greater Element I](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0496-next-greater-element-i.ipynb) <br>
 [523. Continuous Subarray Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0523-continuous-subarray-sum.ipynb) <br>
 [535. Encode and Decode TinyURL](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0535-encode-and-decode-tinyurl.ipynb) <br>
+[539. Minimum Time Difference](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0539-minimum-time-difference.ipynb) <br>
 [554. Brick Wall](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0554-brick-wall.ipynb) <br>
 [560. Subarray Sum Equals K](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0560-subarray-sum-equals-k.ipynb) <br>
 [605. Can Place Flowers](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0605-can-place-flowers.ipynb) <br>
+[645. Set Mismatch](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0645-set-mismatch.ipynb) <br>
 [665. Non Decreasing Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0665-non-decreasing-array.ipynb) <br>
 [705. Design HashSet](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0705-design-hashset.ipynb) <br>
 [706. Design HashMap](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0706-design-hashmap.ipynb) <br>
 [724. Find Pivot Index](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0724-find-pivot-index.ipynb) <br>
 [838. Push Dominoes](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0838-push-dominoes.ipynb) <br>
+[896. Monotonic Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0896-monotonic-array.ipynb) <br>
 [912. Sort an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0912-sort-an-array.ipynb) <br>
 [929. Unique Email Addresses](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0929-unique-email-addresses.ipynb) <br>
 [1189. Maximum Number of Balloons](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1189-maximum-number-of-balloons.ipynb) <br>
