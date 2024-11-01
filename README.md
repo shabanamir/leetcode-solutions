@@ -81,6 +81,7 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 [344. Reverse String](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0344-reverse-string.ipynb) <br>
 [680. Valid Palindrome II](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0680-valid-palindrome-ii.ipynb) <br>
 [881. Boats to Save People](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0881-boats-to-save-people.ipynb) <br>
+[977. Squares of a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/0977-squares-of-a-sorted-array.ipynb) <br>
 [1498. Number of Subsequences That Satisfy the Given Sum Condition](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1498-number-of-subsequences-that-satisfy-the-given-sum-condition.ipynb) <br>
 [1768. Merge Strings Alternately](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1768-merge-strings-alternately.ipynb) <br>
 [1968. Array With Elements Not Equal to Average of Neighbors](https://github.com/shabanamir/leetcode-solutions/blob/main/Two%20Pointers/1968-array-with-elements-not-equal-to-average-of-neighbors.ipynb) <br>
@@ -147,7 +148,6 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 [540. Single Element in a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0540-single-element-in-a-sorted-array.ipynb) <br>
 [704. Binary Search](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0704-binary-search.ipynb) <br>
 [875. Koko Eating Bananas](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0875-koko-eating-bananas.ipynb) <br>
-[977. Squares of a Sorted Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0977-squares-of-a-sorted-array.ipynb) <br>
 [981. Time Based Key Value Store](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0981-time-based-key-value-store.ipynb) <br>
 [1011. Capacity to Ship Packages Within D Days](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/0981-time-based-key-value-store.ipynb) <br>
 [1268. Search Suggestions System](https://github.com/shabanamir/leetcode-solutions/blob/main/Binary%20Search/1268-search-suggestions-system.ipynb) <br>
@@ -387,32 +387,32 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 
 ## Math & Geometry
 
-[6. Zigzag Conversion](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0006-zigzag-conversion.ipynb) <br>
-[9. Palindrome Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0009-palindrome-number.ipynb) <br>
-[12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0012-integer-to-roman.ipynb) <br>
-[13. Roman to Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0013-roman-to-integer.ipynb) <br>
-[43. Multiply Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0043-multiply-strings.ipynb) <br>
-[48. Rotate Image](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0048-rotate-image.ipynb) <br>
-[50. Pow(x, n)](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0050-pow-x-n.ipynb) <br>
-[54. Spiral Matrix](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0054-spiral-matrix.ipynb) <br>
-[59. Spiral Matrix II](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0059-spiral-matrix-ii.ipynb) <br>
-[66. Plus One](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0066-plus-one.ipynb) <br>
-[73. Set Matrix Zeroes](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0073-set-matrix-zeroes.ipynb) <br>
-[149. Max Points on a Line](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0149-max-points-on-a-line.ipynb) <br>
-[202. Happy Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0202-happy-number.ipynb) <br>
-[263. Ugly Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/0263-ugly-number.ipynb) <br>
-[1041. Robot Bounded in Circle](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1041-robot-bounded-in-circle.ipynb) <br>
-[1071. Greatest Common Divisor of Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1071-greatest-common-divisor-of-strings.ipynb) <br>
-[1260. Shift 2D Grid](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1260-shift-2d-grid.ipynb) <br>
-[1523. Count Odd Numbers in an Interval Range](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1523-count-odd-numbers-in-an-interval-range.ipynb) <br>
-[1572. Matrix Diagonal Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/1572-matrix-diagonal-sum.ipynb) <br>
-[2013. Detect Squares](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/2013-detect-squares.ipynb) <br>
-[2028. Find Missing Observations](https://github.com/shabanamir/leetcode-solutions/blob/main/Maths%20%26%20Geometry/2013-detect-squares.ipynb) <br>
+[6. Zigzag Conversion](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0006-zigzag-conversion.ipynb) <br>
+[7. Reverse Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20Geometry/0007-reverse-integer.ipynb) <br>
+[9. Palindrome Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0009-palindrome-number.ipynb) <br>
+[12. Integer to Roman](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0012-integer-to-roman.ipynb) <br>
+[13. Roman to Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0013-roman-to-integer.ipynb) <br>
+[43. Multiply Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0043-multiply-strings.ipynb) <br>
+[48. Rotate Image](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0048-rotate-image.ipynb) <br>
+[50. Pow(x, n)](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0050-pow-x-n.ipynb) <br>
+[54. Spiral Matrix](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0054-spiral-matrix.ipynb) <br>
+[59. Spiral Matrix II](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0059-spiral-matrix-ii.ipynb) <br>
+[66. Plus One](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0066-plus-one.ipynb) <br>
+[73. Set Matrix Zeroes](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0073-set-matrix-zeroes.ipynb) <br>
+[149. Max Points on a Line](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0149-max-points-on-a-line.ipynb) <br>
+[202. Happy Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0202-happy-number.ipynb) <br>
+[263. Ugly Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/0263-ugly-number.ipynb) <br>
+[1041. Robot Bounded in Circle](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1041-robot-bounded-in-circle.ipynb) <br>
+[1071. Greatest Common Divisor of Strings](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1071-greatest-common-divisor-of-strings.ipynb) <br>
+[1260. Shift 2D Grid](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1260-shift-2d-grid.ipynb) <br>
+[1523. Count Odd Numbers in an Interval Range](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1523-count-odd-numbers-in-an-interval-range.ipynb) <br>
+[1572. Matrix Diagonal Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/1572-matrix-diagonal-sum.ipynb) <br>
+[2013. Detect Squares](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/2013-detect-squares.ipynb) <br>
+[2028. Find Missing Observations](https://github.com/shabanamir/leetcode-solutions/blob/main/Math%20%26%20Geometry/2013-detect-squares.ipynb) <br>
 
 
 ## Bit Manipulation
 
-[7. Reverse Integer](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0007-reverse-integer.ipynb) <br>
 [67. Add Binary](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0067-add-binary.ipynb) <br>
 [136. Single Number](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0136-single-number.ipynb) <br>
 [190. Reverse Bits](https://github.com/shabanamir/leetcode-solutions/blob/main/Bit%20Manipulation/0190-reverse-bits.ipynb) <br>
