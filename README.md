@@ -52,6 +52,7 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 [1189. Maximum Number of Balloons](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1189-maximum-number-of-balloons.ipynb) <br>
 [1299. Replace Elements with Greatest Element on Right Side](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1299-replace-elements-with-greatest-element-on-right-side.ipynb) <br>
 [1396. Design Underground System](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1396-design-underground-system.ipynb) <br>
+[1436. Destination City](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1436-destination-city.ipynb) <br>
 [1461. Check If a String Contains All Binary Codes of Size K](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1461-check-if-a-string-contains-all-binary-codes-of-size-k.ipynb) <br>
 [1496. Path Crossing](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1496-path-crossing.ipynb) <br>
 [1603. Design Parking System](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/1603-design-parking-system.ipynb) <br>
