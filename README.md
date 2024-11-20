@@ -35,6 +35,7 @@ Solutions to LeetCode problems with intuition, approach, time and space complexi
 [448. Find All Numbers Disappeared in an Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0448-find-all-numbers-disappeared-in-an-array.ipynb) <br>
 [496. Next Greater Element I](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0496-next-greater-element-i.ipynb) <br>
 [523. Continuous Subarray Sum](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0523-continuous-subarray-sum.ipynb) <br>
+[525. Contiguous Array](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0525-contiguous-array.ipynb) <br>
 [535. Encode and Decode TinyURL](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0535-encode-and-decode-tinyurl.ipynb) <br>
 [539. Minimum Time Difference](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0539-minimum-time-difference.ipynb) <br>
 [554. Brick Wall](https://github.com/shabanamir/leetcode-solutions/blob/main/Array%20%26%20Hashing/0554-brick-wall.ipynb) <br>
